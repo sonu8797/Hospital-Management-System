@@ -44,5 +44,5 @@ python3 manage.py runserver
 ```
 http://127.0.0.1:8000/
 ```
-## This project was made by Kriti Bhardwaj, Vinod Meena, Nirbhay Kumar and Sonu Yadav
+## This project was made by Kriti Bhardwaj, Vinod Meena, Nirbhay Kumar and Sonu Kumar Yadav
 
